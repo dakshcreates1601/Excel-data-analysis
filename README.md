@@ -1,1 +1,1 @@
-My first excel project applying data cleaning and pivot tables to make graphical representation and easy analysis.
+My first Excel Project applying Data cleaning and Pivot tables to make Graphical representation and easy analysis.
