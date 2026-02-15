@@ -9,5 +9,6 @@ My first Excel Project applying Data cleaning and Pivot tables to make Graphical
 #Adding Pivot Tables and Graphs 
 <img width="1143" height="752" alt="image" src="https://github.com/user-attachments/assets/a81caa47-b856-45c6-aaf5-998db1ae4524" />
 
-#Final Dashboard 
+#Final Dashboard
+
 <img width="811" height="687" alt="image" src="https://github.com/user-attachments/assets/6c32cf98-30c0-4a2e-84ae-b9a9f2054c0c" />
